@@ -1,3 +1,3 @@
 <div style="width: 100%;">
-  <img src="welcome.svg" style="width: 70%;" alt="Click to see the source">
+  <img src="welcome.svg" style="width: 85%;" alt="Click to see the source">
 </div>
