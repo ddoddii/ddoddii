@@ -1,3 +1,1 @@
-<div style="width: 100%;">
-  <img src="welcome.svg" style="width: 85%;" alt="Click to see the source">
-</div>
+https://github.com/ddoddii/ddoddii/assets/95014836/50d2d81c-9744-4c7d-88f6-4ce40f3a2ff2
