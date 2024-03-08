@@ -6,8 +6,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-[![LeetCode user ddoddii](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fddoddii&logo=leetcode&logoColor=yellow)](https://leetcode.com/ddoddii/)
-
 
 **Change yourself, Change your team, Change the world** 🌎
 
@@ -27,4 +25,4 @@
 -  Yonsei University Seoul Campus (2019.03 ~ )
     - College of Engineering.
  
-![Leetcode Stats](https://leetcard.jacoblin.cool/ddoddii?font=Bubblegum%20Sans&ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ddoddii?theme=light&font=Lato&ext=heatmap)
