@@ -1,4 +1,4 @@
-## Problem-Solving Backend Developer, Soeun Uhm
+## Problem-Solving Engineer, Soeun Uhm
 
 <a href="https://ddoddii.github.io/">
     <img 
