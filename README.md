@@ -1,4 +1,4 @@
-## Problem-Solving Engineer, Soeun Uhm
+## Problem-Solving Engineer, talented in grit 🔥
 
 <a href="https://ddoddii.github.io/">
     <img 
