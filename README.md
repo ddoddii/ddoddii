@@ -37,8 +37,8 @@
 |------|-----|
 |Computer Network|[네트워크 정리](https://ddoddii.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)|
 |Database|[데이터베이스 정리](https://ddoddii.github.io/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/)|
-|Operating System|[운영체제 정리](https://github.com/ddoddii/OS-CA-Study/tree/main/OS)|
-|Computer Architecture|[컴퓨터 아키텍쳐 정리](https://github.com/ddoddii/OS-CA-Study/tree/main/CA)|
+|Operating System|[운영체제 정리](https://github.com/ddoddii/OS-CA-Study/tree/main/Operating%20System)|
+|Computer Architecture|[컴퓨터 아키텍쳐 정리](https://github.com/ddoddii/OS-CA-Study/tree/main/Computer%20Architecture)|
 
 </details>
 
