@@ -14,6 +14,9 @@
 #### ✨[[Google Developer Student Club Yonsei](https://github.com/gdsc-ys)] (2023.09 ~) 
 - Backend Team Member
 - [Chat Your Interview](https://github.com/ddoddii/resume-ai-chat) : 자소서 기반 개인 맞춤 질문 생성 프로젝트
+    -  백엔드 서버 구축(Spring Boot, FastAPI, AWS) 
+- [Google Solution Challenge 2024 : LookNCook](https://github.com/ddoddii/LookNCook) : 시각장애인을 위한 요리 안내 어플리케이션 (Global Top 100 finalist)
+    - 백엔드 서버 구축(Echo, GCP)
 
 #### ✨[[Data Science Lab](https://github.com/DataScience-Lab-Yonsei)] (2022.06 ~ 2023.06)
 - [Skills-for-DS](https://github.com/DataScience-Lab-Yonsei/skills-for-DS) : 딥러닝 모델들을 배포하고, CI/CD 파이프라인을 구축하고, 서빙하기 위한 필수 지식들을 담아 직접 기획한 세미나
@@ -26,5 +29,24 @@
 ### 📚 Education
 -  Yonsei University Seoul Campus (2019.03 ~ )
     - College of Engineering.
- 
+
+<details>
+<summary>📝 Computer Science Studies</summary>
+
+|Course|Study|
+|------|-----|
+|Computer Network|[네트워크 정리](https://ddoddii.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)|
+|Database|[데이터베이스 정리](https://ddoddii.github.io/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/)|
+|Operating System|[운영체제 정리](https://github.com/ddoddii/OS-CA-Study/tree/main/OS)|
+|Computer Architecture|[컴퓨터 아키텍쳐 정리](https://github.com/ddoddii/OS-CA-Study/tree/main/CA)|
+
+</details>
+
+
+<details>
+<summary>🎖️ My Leetcode Stats</summary>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ddoddii?theme=light&font=Lato&ext=heatmap)
+
+</details>
+
