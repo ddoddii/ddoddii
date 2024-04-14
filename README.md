@@ -14,9 +14,9 @@
 #### ✨[[Google Developer Student Club Yonsei](https://github.com/gdsc-ys)] (2023.09 ~) 
 - Backend Team Member
 - [Chat Your Interview](https://github.com/ddoddii/resume-ai-chat) : 자소서 기반 개인 맞춤 질문 생성 프로젝트
-    -  백엔드 서버 구축(Spring Boot, FastAPI, AWS) 
+    -  백엔드 서버 구축
 - [Google Solution Challenge 2024 : LookNCook](https://github.com/ddoddii/LookNCook) : 시각장애인을 위한 요리 안내 어플리케이션 (Global Top 100 finalist)
-    - 백엔드 서버 구축(Echo, GCP)
+    - 백엔드 서버 구축
 
 #### ✨[[Data Science Lab](https://github.com/DataScience-Lab-Yonsei)] (2022.06 ~ 2023.06)
 - [Skills-for-DS](https://github.com/DataScience-Lab-Yonsei/skills-for-DS) : 딥러닝 모델들을 배포하고, CI/CD 파이프라인을 구축하고, 서빙하기 위한 필수 지식들을 담아 직접 기획한 세미나
