@@ -39,6 +39,7 @@
 |Database|[데이터베이스 정리](https://ddoddii.github.io/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/)|
 |Operating System|[운영체제 정리](https://github.com/ddoddii/OS-CA-Study/tree/main/Operating%20System)|
 |Computer Architecture|[컴퓨터 아키텍쳐 정리](https://github.com/ddoddii/OS-CA-Study/tree/main/Computer%20Architecture)|
+|Multi-core GPU Programming|[멀티코어 GPU 프로그래밍 정리](https://github.com/ddoddii/Multicore-GPU-Programming)|
 
 </details>
 
