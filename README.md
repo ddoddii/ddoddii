@@ -9,7 +9,8 @@
 [![LeetCode user ddoddii](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fddoddii&logo=leetcode&logoColor=yellow)](https://leetcode.com/ddoddii/)
 
 
-**Change yourself, Change your team, Change the world** 🌎
+**Change yourself, Change your team, Change the world** 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
 
 #### ✨[[Google Developer Student Club Yonsei](https://github.com/gdsc-ys)] (2023.09 ~) 
 - Backend Team Member
@@ -27,7 +28,8 @@
 - Github pages 를 이용한 배포, Github Actions 를 사용한 배포 자동화
 
 ### 📚 Education
--  Yonsei University Seoul Campus (2019.03 ~ )
+
+-  Yonsei University Seoul Campus (2019.03 ~ ) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="25" height="25" />
     - College of Engineering.
 
 <details>
