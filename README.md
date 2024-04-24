@@ -1,4 +1,5 @@
-## Problem-Solving Engineer, talented in grit <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
+## Problem-Solving Engineer, talented in grit <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
+
 
 <a href="https://ddoddii.github.io/">
     <img 
@@ -9,27 +10,33 @@
 [![LeetCode user ddoddii](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fddoddii&logo=leetcode&logoColor=yellow)](https://leetcode.com/ddoddii/)
 
 
-**Change yourself, Change your team, Change the world** 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
+I'm soeun, a self-motivated developer with a passion for crafting products that will really make an impact on our daily lives. Over the past years of university, I learned architecture engineering & computer science. I have a strong engineering backgroud, which makes me proficient in other studies as well. 
+
+I have completed numerous projects utilizing a range of programming languages, including Python and Java. 
+
+I love to write technical articles in easy words. I have posted over 70 articles in my [blog](https://ddoddii.github.io/), and also posting solutions to [leetcode](https://leetcode.com/ddoddii/). Come visit! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
+
+
+### Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 #### ✨[[Google Developer Student Club Yonsei](https://github.com/gdsc-ys)] (2023.09 ~) 
 - Backend Team Member
-- [Chat Your Interview](https://github.com/ddoddii/resume-ai-chat) : 자소서 기반 개인 맞춤 질문 생성 프로젝트
-    -  백엔드 서버 구축
-- [Google Solution Challenge 2024 : LookNCook](https://github.com/ddoddii/LookNCook) : 시각장애인을 위한 요리 안내 어플리케이션 (Global Top 100 finalist)
-    - 백엔드 서버 구축
+- [Chat Your Interview](https://github.com/ddoddii/resume-ai-chat) : Generated personalized questions based on resume. 
+    -  Implemented backend server using FastAPI(python)
+    -  Dockerized and deployed it to AWS
+- [Google Solution Challenge 2024 : LookNCook](https://github.com/ddoddii/LookNCook) : Cooking aid application for blind people (Global Top 100 finalist)
+    - Implemented backend server using Echo(Go)
 
 #### ✨[[Data Science Lab](https://github.com/DataScience-Lab-Yonsei)] (2022.06 ~ 2023.06)
-- [Skills-for-DS](https://github.com/DataScience-Lab-Yonsei/skills-for-DS) : 딥러닝 모델들을 배포하고, CI/CD 파이프라인을 구축하고, 서빙하기 위한 필수 지식들을 담아 직접 기획한 세미나
-- [AuToeic](https://github.com/ddoddii/DSL-23-1-modeling-AuToeic) : 토익 문제 자동 생성 프로젝트
+- [Skills-for-DS](https://github.com/DataScience-Lab-Yonsei/skills-for-DS) : Instructed a comprehensive course, covering Python
+programming, Docker integration, and FastAPI framework expertise, CI/CD pipelines
 
-📝 [Personal Tech Blog Repo](https://github.com/ddoddii/ddoddii.github.io)
-- Hugo 를 사용해 제작한 개인 기술 블로그 (포스팅 수 70+)
-- Github pages 를 이용한 배포, Github Actions 를 사용한 배포 자동화
+- [AuToeic](https://github.com/ddoddii/DSL-23-1-modeling-AuToeic) : Led a project about generating TOEIC LC Part.1 questions
 
-### 📚 Education
 
--  Yonsei University Seoul Campus (2019.03 ~ ) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="25" height="25" />
+### Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="30" height="30" />
+
+-  Yonsei University Seoul Campus (2019.03 ~ ) 
     - College of Engineering.
 
 <details>
