@@ -1,4 +1,4 @@
-## Problem-Solving Engineer, talented in grit 🔥
+## Problem-Solving Engineer, talented in grit <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
 
 <a href="https://ddoddii.github.io/">
     <img 
