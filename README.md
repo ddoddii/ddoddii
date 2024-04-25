@@ -14,7 +14,7 @@ I'm soeun, a self-motivated developer with a passion for crafting products that 
 
 I have completed numerous projects utilizing a range of programming languages, including Python and Java. 
 
-I love writing technical articles in easy words. I have posted over 70 articles in my [blog](https://ddoddii.github.io/), and also posting solutions to [leetcode](https://leetcode.com/ddoddii/). Come visit! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
+I love writing technical articles in easy words. I have posted over 70 articles in my [blog](https://ddoddii.github.io/), and also posting solutions to [leetcode](https://leetcode.com/ddoddii/). Come visit! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
 
 
 ### Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
