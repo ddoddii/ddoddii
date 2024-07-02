@@ -14,20 +14,19 @@ I'm soeun, a self-motivated developer with a passion for crafting products that 
 
 I have completed numerous projects utilizing a range of programming languages, including Python and Java. 
 
-I love writing technical articles in easy words. I have posted over 70 articles in my [blog](https://ddoddii.github.io/), and also posting solutions to [leetcode](https://leetcode.com/ddoddii/). Come visit! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
+I love writing technical articles in easy words. I have posted over 80 articles in my [blog](https://ddoddii.github.io/), and also posting solutions to [leetcode](https://leetcode.com/ddoddii/). Come visit! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
 
 
 ### Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
-#### ✨[[Google Developer Student Club Yonsei](https://github.com/gdsc-ys)] (2023.09 ~) 
-- Backend Team Member
+#### ✨[[Google Developer Student Club Yonsei](https://github.com/gdsc-ys)] 
 - [Chat Your Interview](https://github.com/ddoddii/resume-ai-chat) : Generated personalized questions based on resume. 
     -  Implemented backend server using FastAPI(python)
     -  Dockerized and deployed it to AWS
 - [Google Solution Challenge 2024 : LookNCook](https://github.com/ddoddii/LookNCook) : Cooking aid application for blind people (Global Top 100 finalist)
     - Implemented backend server using Echo(Go)
 
-#### ✨[[Data Science Lab](https://github.com/DataScience-Lab-Yonsei)] (2022.06 ~ 2023.06)
+#### ✨[[Data Science Lab](https://github.com/DataScience-Lab-Yonsei)] 
 - [Skills-for-DS](https://github.com/DataScience-Lab-Yonsei/skills-for-DS) : Instructed a comprehensive course, covering Python
 programming, Docker integration, and FastAPI framework expertise, CI/CD pipelines
 
@@ -36,11 +35,10 @@ programming, Docker integration, and FastAPI framework expertise, CI/CD pipeline
 
 ### Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="30" height="30" />
 
--  Yonsei University Seoul Campus (2019.03 ~ ) 
-    - College of Engineering.
+Yonsei University Seoul Campus, College of Engineering.
 
-<details>
-<summary>📝 Computer Science Studies</summary>
+
+#### 📝 Computer Science Studies
 
 |Course|Study|
 |------|-----|
@@ -50,13 +48,10 @@ programming, Docker integration, and FastAPI framework expertise, CI/CD pipeline
 |Computer Architecture|[컴퓨터 아키텍쳐 정리](https://github.com/ddoddii/OS-CA-Study/tree/main/Computer%20Architecture)|
 |Multi-core GPU Programming|[멀티코어 GPU 프로그래밍 정리](https://github.com/ddoddii/Multicore-GPU-Programming)|
 
-</details>
 
 
-<details>
-<summary>🎖️ My Leetcode Stats</summary>
+
+#### 🎖️ My Leetcode Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ddoddii?theme=light&font=Lato&ext=heatmap)
-
-</details>
 
