@@ -9,6 +9,7 @@
 
 [![LeetCode user ddoddii](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fddoddii&logo=leetcode&logoColor=yellow)](https://leetcode.com/ddoddii/)
 
+![uhmsoeun_image_of_a_newspaper_cover_The_title_is_Daily_Coding_20b0aa0c-8605-47f0-9c8a-6b1a3f2705b3_1](https://daily-coding-times.vercel.app/)
 
 I'm soeun, a self-motivated developer with a passion for crafting products that will really make an impact on our daily lives. Over the past years of university, I learned architecture engineering & computer science. I have a strong engineering backgroud, which makes me proficient in other studies as well. 
 
