@@ -18,40 +18,6 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rolled-Up%20Newspaper.png" alt="Rolled-Up Newspaper" width="25" height="25" /> 𝗪𝗲𝗲𝗸𝗹𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
 
-<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="150" fill="#f0f4f8" stroke="#d1dce5" stroke-width="1"/>
-  <text x="20" y="35" font-family="Cambria" font-size="24" fill="#333">Weekly Summary</text>
-  <text x="20" y="75" font-family="Cambria" font-size="16" fill="#666">
-    The following commit summary is updated automatically.
-  </text>
-</svg>
-
-
-
-<div class="ai-message-box">
-  <strong>Weekly Summary</strong>
-  <p></p>
-</div>
-
-<style>
-  .ai-message-box {
-    background-color: #f0f4f8;
-    border: 1px solid #d1dce5;
-    padding: 10px;
-    border-radius: 5px;
-    margin-bottom: 10px;
-  }
-  .ai-message-box strong {
-    font-size: 18px;
-    color: #333;
-  }
-  .ai-message-box p {
-    font-size: 14px;
-    color: #666;
-  }
-</style>
-
-
 
 <!-- COMMIT_SUMMARY_START -->
 <!-- COMMIT_SUMMARY_END -->
@@ -59,7 +25,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="30" height="30" /> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 
 
-𝙄'𝙢 𝙨𝙤𝙚𝙪𝙣, 𝙖 𝙨𝙚𝙡𝙛-𝙢𝙤𝙩𝙞𝙫𝙖𝙩𝙚𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙬𝙞𝙩𝙝 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙘𝙧𝙖𝙛𝙩𝙞𝙣𝙜 𝙥𝙧𝙤𝙙𝙪𝙘𝙩𝙨 𝙩𝙝𝙖𝙩 𝙬𝙞𝙡𝙡 𝙧𝙚𝙖𝙡𝙡𝙮 𝙢𝙖𝙠𝙚 𝙖𝙣 𝙞𝙢𝙥𝙖𝙘𝙩 𝙤𝙣 𝙤𝙪𝙧 𝙙𝙖𝙞𝙡𝙮 𝙡𝙞𝙫𝙚𝙨. 𝙊𝙫𝙚𝙧 𝙩𝙝𝙚 𝙥𝙖𝙨𝙩 𝙮𝙚𝙖𝙧𝙨 𝙤𝙛 𝙪𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙄 𝙡𝙚𝙖𝙧𝙣𝙚𝙙 𝙖𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 & 𝙘𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙨𝙘𝙞𝙚𝙣𝙘𝙚. 𝙄 𝙝𝙖𝙫𝙚 𝙖 𝙨𝙩𝙧𝙤𝙣𝙜 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙗𝙖𝙘𝙠𝙜𝙧𝙤𝙪𝙙, 𝙬𝙝𝙞𝙘𝙝 𝙢𝙖𝙠𝙚𝙨 𝙢𝙚 𝙥𝙧𝙤𝙛𝙞𝙘𝙞𝙚𝙣𝙩 𝙞𝙣 𝙤𝙩𝙝𝙚𝙧 𝙨𝙩𝙪𝙙𝙞𝙚𝙨 𝙖𝙨 𝙬𝙚𝙡𝙡. 
+𝙄'𝙢 𝙨𝙤𝙚𝙪𝙣, 𝙖 𝙨𝙚𝙡𝙛-𝙢𝙤𝙩𝙞𝙫𝙖𝙩𝙚𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙬𝙞𝙩𝙝 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙘𝙧𝙖𝙛𝙩𝙞𝙣𝙜 𝙥𝙧𝙤𝙙𝙪𝙘𝙩𝙨 𝙩𝙝𝙖𝙩 𝙬𝙞𝙡𝙡 𝙧𝙚𝙖𝙡𝙡𝙮 𝙢𝙖𝙠𝙚 𝙖𝙣 𝙞𝙢𝙥𝙖𝙘𝙩 𝙤𝙣 𝙤𝙪𝙧 𝙙𝙖𝙞𝙡𝙮 𝙡𝙞𝙫𝙚𝙨. 𝙊𝙫𝙚𝙧 𝙩𝙝𝙚 𝙥𝙖𝙨𝙩 𝙮𝙚𝙖𝙧𝙨 𝙤𝙛 𝙪𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮, 𝙄 𝙡𝙚𝙖𝙧𝙣𝙚𝙙 𝙖𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 & 𝙘𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙨𝙘𝙞𝙚𝙣𝙘𝙚. 𝙄 𝙝𝙖𝙫𝙚 𝙖 𝙨𝙩𝙧𝙤𝙣𝙜 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙗𝙖𝙘𝙠𝙜𝙧𝙤𝙪𝙙, 𝙬𝙝𝙞𝙘𝙝 𝙢𝙖𝙠𝙚𝙨 𝙢𝙚 𝙥𝙧𝙤𝙛𝙞𝙘𝙞𝙚𝙣𝙩 𝙞𝙣 𝙤𝙩𝙝𝙚𝙧 𝙨𝙩𝙪𝙙𝙞𝙚𝙨 𝙖𝙨 𝙬𝙚𝙡𝙡.
 
 𝙄 𝙝𝙖𝙫𝙚 𝙘𝙤𝙢𝙥𝙡𝙚𝙩𝙚𝙙 𝙣𝙪𝙢𝙚𝙧𝙤𝙪𝙨 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙪𝙩𝙞𝙡𝙞𝙯𝙞𝙣𝙜 𝙖 𝙧𝙖𝙣𝙜𝙚 𝙤𝙛 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨, 𝙞𝙣𝙘𝙡𝙪𝙙𝙞𝙣𝙜 𝙋𝙮𝙩𝙝𝙤𝙣 𝙖𝙣𝙙 𝙅𝙖𝙫𝙖.
 
