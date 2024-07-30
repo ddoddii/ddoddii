@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: '14'
       - run: npm install node-fetch
-      - run: node update-readme.js
+      - run: node update-readme.mjs
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
