@@ -18,6 +18,41 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rolled-Up%20Newspaper.png" alt="Rolled-Up Newspaper" width="25" height="25" /> 𝗪𝗲𝗲𝗸𝗹𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
 
+<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="150" fill="#f0f4f8" stroke="#d1dce5" stroke-width="1"/>
+  <text x="20" y="35" font-family="Cambria" font-size="24" fill="#333">Weekly Summary</text>
+  <text x="20" y="75" font-family="Cambria" font-size="16" fill="#666">
+    The following commit summary is updated automatically.
+  </text>
+</svg>
+
+
+
+<div class="ai-message-box">
+  <strong>Weekly Summary</strong>
+  <p></p>
+</div>
+
+<style>
+  .ai-message-box {
+    background-color: #f0f4f8;
+    border: 1px solid #d1dce5;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  .ai-message-box strong {
+    font-size: 18px;
+    color: #333;
+  }
+  .ai-message-box p {
+    font-size: 14px;
+    color: #666;
+  }
+</style>
+
+
+
 <!-- COMMIT_SUMMARY_START -->
 <!-- COMMIT_SUMMARY_END -->
 
