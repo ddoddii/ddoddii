@@ -3,7 +3,7 @@
 
 <a href="https://ddoddii.github.io/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&𝙡𝙞𝙣𝙠=https://ddoddii.github.io/"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://ddoddii.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
@@ -17,6 +17,7 @@
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rolled-Up%20Newspaper.png" alt="Rolled-Up Newspaper" width="25" height="25" /> 𝗪𝗲𝗲𝗸𝗹𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
+
 <!-- COMMIT_SUMMARY_START -->
 <!-- COMMIT_SUMMARY_END -->
 
@@ -28,22 +29,22 @@
 𝙄 𝙝𝙖𝙫𝙚 𝙘𝙤𝙢𝙥𝙡𝙚𝙩𝙚𝙙 𝙣𝙪𝙢𝙚𝙧𝙤𝙪𝙨 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙪𝙩𝙞𝙡𝙞𝙯𝙞𝙣𝙜 𝙖 𝙧𝙖𝙣𝙜𝙚 𝙤𝙛 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨, 𝙞𝙣𝙘𝙡𝙪𝙙𝙞𝙣𝙜 𝙋𝙮𝙩𝙝𝙤𝙣 𝙖𝙣𝙙 𝙅𝙖𝙫𝙖.
 
 
-𝙄 𝙡𝙤𝙫𝙚 𝙬𝙧𝙞𝙩𝙞𝙣𝙜 𝙩𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙖𝙧𝙩𝙞𝙘𝙡𝙚𝙨 𝙞𝙣 𝙚𝙖𝙨𝙮 𝙬𝙤𝙧𝙙𝙨. 𝙄 𝙝𝙖𝙫𝙚 𝙥𝙤𝙨𝙩𝙚𝙙 𝙤𝙫𝙚𝙧 80 𝙖𝙧𝙩𝙞𝙘𝙡𝙚𝙨 𝙞𝙣 𝙢𝙮 [𝙗𝙡𝙤𝙜](𝙝𝙩𝙩𝙥𝙨://𝙙𝙙𝙤𝙙𝙙𝙞𝙞.𝙜𝙞𝙩𝙝𝙪𝙗.𝙞𝙤/), 𝙖𝙣𝙙 𝙖𝙡𝙨𝙤 𝙥𝙤𝙨𝙩𝙞𝙣𝙜 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨 𝙩𝙤 [𝙡𝙚𝙚𝙩𝙘𝙤𝙙𝙚](𝙝𝙩𝙩𝙥𝙨://𝙡𝙚𝙚𝙩𝙘𝙤𝙙𝙚.𝙘𝙤𝙢/𝙙𝙙𝙤𝙙𝙙𝙞𝙞/).
+𝙄 𝙡𝙤𝙫𝙚 𝙬𝙧𝙞𝙩𝙞𝙣𝙜 𝙩𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙖𝙧𝙩𝙞𝙘𝙡𝙚𝙨 𝙞𝙣 𝙚𝙖𝙨𝙮 𝙬𝙤𝙧𝙙𝙨. 𝙄 𝙝𝙖𝙫𝙚 𝙥𝙤𝙨𝙩𝙚𝙙 𝙤𝙫𝙚𝙧 80 𝙖𝙧𝙩𝙞𝙘𝙡𝙚𝙨 𝙞𝙣 𝙢𝙮 [𝙗𝙡𝙤𝙜](https://ddoddii.github.io/), 𝙖𝙣𝙙 𝙖𝙡𝙨𝙤 𝙥𝙤𝙨𝙩𝙞𝙣𝙜 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨 𝙩𝙤 [𝙡𝙚𝙚𝙩𝙘𝙤𝙙𝙚](https://leetcode.com/ddoddii/).
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-- [𝙄𝙣𝙩𝙚𝙧𝙫𝙞𝙚𝙬+](𝙝𝙩𝙩𝙥𝙨://𝙜𝙞𝙩𝙝𝙪𝙗.𝙘𝙤𝙢/𝙙𝙙𝙤𝙙𝙙𝙞𝙞/𝙞𝙣𝙩𝙚𝙧𝙫𝙞𝙚𝙬-𝙥𝙡𝙪𝙨-𝙨𝙥𝙧𝙞𝙣𝙜-𝙨𝙚𝙧𝙫𝙚𝙧) : 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙚𝙙 𝙥𝙚𝙧𝙨𝙤𝙣𝙖𝙡𝙞𝙯𝙚𝙙 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣𝙨 𝙗𝙖𝙨𝙚𝙙 𝙤𝙣 𝙪𝙨𝙚𝙧 𝘾𝙑𝙨. 
+- [𝙄𝙣𝙩𝙚𝙧𝙫𝙞𝙚𝙬+](https://github.com/ddoddii/interview-plus-spring-server) : 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙚𝙙 𝙥𝙚𝙧𝙨𝙤𝙣𝙖𝙡𝙞𝙯𝙚𝙙 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣𝙨 𝙗𝙖𝙨𝙚𝙙 𝙤𝙣 𝙪𝙨𝙚𝙧 𝘾𝙑𝙨. 
     -  𝙄𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙚𝙙 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙨𝙚𝙧𝙫𝙚𝙧 𝙪𝙨𝙞𝙣𝙜 𝙎𝙥𝙧𝙞𝙣𝙜 
     -  𝘿𝙤𝙘𝙠𝙚𝙧𝙞𝙯𝙚𝙙 𝙖𝙣𝙙 𝙙𝙚𝙥𝙡𝙤𝙮𝙚𝙙 𝙞𝙩 𝙩𝙤 𝙜𝙤𝙤𝙜𝙡𝙚 𝙘𝙡𝙤𝙪𝙙
-- [𝙂𝙤𝙤𝙜𝙡𝙚 𝙎𝙤𝙡𝙪𝙩𝙞𝙤𝙣 𝘾𝙝𝙖𝙡𝙡𝙚𝙣𝙜𝙚 2024 : 𝙇𝙤𝙤𝙠𝙉𝘾𝙤𝙤𝙠](𝙝𝙩𝙩𝙥𝙨://𝙜𝙞𝙩𝙝𝙪𝙗.𝙘𝙤𝙢/𝙙𝙙𝙤𝙙𝙙𝙞𝙞/𝙇𝙤𝙤𝙠𝙉𝘾𝙤𝙤𝙠) : 𝘾𝙤𝙤𝙠𝙞𝙣𝙜 𝙖𝙞𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝙛𝙤𝙧 𝙗𝙡𝙞𝙣𝙙 𝙥𝙚𝙤𝙥𝙡𝙚 (𝙂𝙡𝙤𝙗𝙖𝙡 𝙏𝙤𝙥 100 𝙛𝙞𝙣𝙖𝙡𝙞𝙨𝙩)
+- [𝙂𝙤𝙤𝙜𝙡𝙚 𝙎𝙤𝙡𝙪𝙩𝙞𝙤𝙣 𝘾𝙝𝙖𝙡𝙡𝙚𝙣𝙜𝙚 2024 : 𝙇𝙤𝙤𝙠𝙉𝘾𝙤𝙤𝙠](https://github.com/ddoddii/lookncook-server) : 𝘾𝙤𝙤𝙠𝙞𝙣𝙜 𝙖𝙞𝙙 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝙛𝙤𝙧 𝙗𝙡𝙞𝙣𝙙 𝙥𝙚𝙤𝙥𝙡𝙚 (𝙂𝙡𝙤𝙗𝙖𝙡 𝙏𝙤𝙥 100 𝙛𝙞𝙣𝙖𝙡𝙞𝙨𝙩)
     - 𝙄𝙢𝙥𝙡𝙚𝙢𝙚𝙣𝙩𝙚𝙙 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙨𝙚𝙧𝙫𝙚𝙧 𝙪𝙨𝙞𝙣𝙜 𝙀𝙘𝙝𝙤(𝙂𝙤)
 
 
-- [𝙎𝙠𝙞𝙡𝙡𝙨-𝙛𝙤𝙧-𝘿𝙎](𝙝𝙩𝙩𝙥𝙨://𝙜𝙞𝙩𝙝𝙪𝙗.𝙘𝙤𝙢/𝘿𝙖𝙩𝙖𝙎𝙘𝙞𝙚𝙣𝙘𝙚-𝙇𝙖𝙗-𝙔𝙤𝙣𝙨𝙚𝙞/𝙨𝙠𝙞𝙡𝙡𝙨-𝙛𝙤𝙧-𝘿𝙎) : 𝙄𝙣𝙨𝙩𝙧𝙪𝙘𝙩𝙚𝙙 𝙖 𝙘𝙤𝙢𝙥𝙧𝙚𝙝𝙚𝙣𝙨𝙞𝙫𝙚 𝙘𝙤𝙪𝙧𝙨𝙚, 𝙘𝙤𝙫𝙚𝙧𝙞𝙣𝙜 𝙋𝙮𝙩𝙝𝙤𝙣
+- [𝙎𝙠𝙞𝙡𝙡𝙨-𝙛𝙤𝙧-𝘿𝙎](https://github.com/ddoddii/lookncook-server) : 𝙄𝙣𝙨𝙩𝙧𝙪𝙘𝙩𝙚𝙙 𝙖 𝙘𝙤𝙢𝙥𝙧𝙚𝙝𝙚𝙣𝙨𝙞𝙫𝙚 𝙘𝙤𝙪𝙧𝙨𝙚, 𝙘𝙤𝙫𝙚𝙧𝙞𝙣𝙜 𝙋𝙮𝙩𝙝𝙤𝙣
 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜, 𝘿𝙤𝙘𝙠𝙚𝙧 𝙞𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣, 𝙖𝙣𝙙 𝙁𝙖𝙨𝙩𝘼𝙋𝙄 𝙛𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠 𝙚𝙭𝙥𝙚𝙧𝙩𝙞𝙨𝙚, 𝘾𝙄/𝘾𝘿 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚𝙨
 
-- [𝘼𝙪𝙏𝙤𝙚𝙞𝙘](𝙝𝙩𝙩𝙥𝙨://𝙜𝙞𝙩𝙝𝙪𝙗.𝙘𝙤𝙢/𝙙𝙙𝙤𝙙𝙙𝙞𝙞/𝘿𝙎𝙇-23-1-𝙢𝙤𝙙𝙚𝙡𝙞𝙣𝙜-𝘼𝙪𝙏𝙤𝙚𝙞𝙘) : 𝙇𝙚𝙙 𝙖 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 𝙖𝙗𝙤𝙪𝙩 𝙜𝙚𝙣𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙏𝙊𝙀𝙄𝘾 𝙇𝘾 𝙋𝙖𝙧𝙩.1 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣𝙨 (𝙚𝙣𝙧𝙤𝙡𝙡𝙚𝙙 𝙞𝙣 𝙥𝙖𝙩𝙚𝙣𝙩)
+- [𝘼𝙪𝙏𝙤𝙚𝙞𝙘](https://github.com/ddoddii/DSL-23-1-modeling-AuToeic) : 𝙇𝙚𝙙 𝙖 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 𝙖𝙗𝙤𝙪𝙩 𝙜𝙚𝙣𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙏𝙊𝙀𝙄𝘾 𝙇𝘾 𝙋𝙖𝙧𝙩.1 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣𝙨 (𝙚𝙣𝙧𝙤𝙡𝙡𝙚𝙙 𝙞𝙣 𝙥𝙖𝙩𝙚𝙣𝙩)
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="30" height="30" /> 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
