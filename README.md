@@ -21,6 +21,28 @@
 
 <!-- COMMIT_SUMMARY_START -->
 
+    <svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        @font-face {
+          font-family: 'EB Garamond';
+          src: url('../fonts/EBGaramond-Regular.woff') format('woff');
+        }
+        .title {
+          font-family: 'EB Garamond', serif;
+          font-size: 24px;
+          fill: #333;
+        }
+        .subtitle {
+          font-family: 'EB Garamond', serif;
+          font-size: 16px;
+          fill: #666;
+        }
+      </style>
+      <rect width="600" height="150" fill="#f0f4f8" stroke="#d1dce5" stroke-width="1"/>
+      <text x="20" y="35" class="title">Weekly Summary</text>
+      <text x="20" y="75" class="subtitle">Soeun has been actively contributing to various repositories, focusing on updating documentation, fixing issues, and making configurations to improve project functionality. Her consistent efforts in maintaining and enhancing her projects demonstrate a strong dedication and commitment to her work.</text><text x="20" y="95" class="subtitle"></text><text x="20" y="115" class="subtitle">Keep up the great work, Soeun! Your ongoing dedication and hard work are truly inspiring and will undoubtedly lead to amazing achievements.</text>
+    </svg>
+  
 <!-- COMMIT_SUMMARY_END -->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="30" height="30" /> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
