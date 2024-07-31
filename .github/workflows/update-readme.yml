@@ -16,7 +16,7 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '14'
-      - run: npm install node-fetch
+      - run: npm install
       - run: node update-readme.mjs
       - name: Commit changes
         run: |
