@@ -4,6 +4,7 @@ import { getFirestore } from "firebase/firestore";
 import config from './config.js';
 import fs from 'fs';
 
+console.log("config loaded : ", config);
 
 const firebaseApp = initializeApp(config.firebaseConfig);
 const db = getFirestore(firebaseApp);
@@ -13,7 +14,7 @@ const FIRESTORE_COLLECTION = 'commit-summary';
 
 const svgTemplate = (summaryText) => {
   const lines = summaryText.split('\n');
-  const lineHeight = 20; // Height between lines
+  const lineHeight = 20;
   let textElements = '';
 
   lines.forEach((line, index) => {
