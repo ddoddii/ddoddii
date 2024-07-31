@@ -15,9 +15,9 @@ const {
   export default {
 
     firebaseConfig: {
-      apiKey: API_KEY,
+      apiKey: FIREBASE_API_KEY,
       authDomain: AUTH_DOMAIN,
-      projectId: PROJECT_ID,
+      projectId: FIREBASE_PROJECT_ID,
       storageBucket: STORAGE_BUCKET,
       messagingSenderId: MESSAGING_SENDER_ID,
       appId: APP_ID,
