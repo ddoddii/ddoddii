@@ -17,11 +17,11 @@ const svgTemplate = (summaryText) => {
   let textElements = '';
 
   lines.forEach((line, index) => {
-    textElements += `<text x="20" y="${75 + index * lineHeight}" class="subtitle">${line}</text>`;
+    textElements += `<text x="20" y="${75 + index * lineHeight}" class="content">${line}</text>`;
   });
 
   return `
-    <svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+    <svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
       <style>
         @font-face {
           font-family: 'EB Garamond';
@@ -29,18 +29,31 @@ const svgTemplate = (summaryText) => {
         }
         .title {
           font-family: 'EB Garamond', serif;
-          font-size: 24px;
+          font-size: 28px;
+          font-weight: bold;
           fill: #333;
         }
         .subtitle {
           font-family: 'EB Garamond', serif;
-          font-size: 16px;
+          font-size: 20px;
+          font-weight: bold;
           fill: #666;
         }
+        .content {
+          font-family: 'EB Garamond', serif;
+          font-size: 16px;
+          fill: #444;
+        }
+        .decorative-line {
+          stroke: #d1dce5;
+          stroke-width: 2;
+        }
       </style>
-      <rect width="600" height="150" fill="#f0f4f8" stroke="#d1dce5" stroke-width="1"/>
-      <text x="20" y="35" class="title">Weekly Summary</text>
+      <rect width="600" height="300" fill="#f8f8f8" stroke="#d1dce5" stroke-width="1"/>
+      <text x="20" y="40" class="title">Weekly Summary</text>
+      <line x1="20" y1="50" x2="580" y2="50" class="decorative-line" />
       ${textElements}
+      <line x1="20" y1="${75 + lines.length * lineHeight + 20}" x2="580" y2="${75 + lines.length * lineHeight + 20}" class="decorative-line" />
     </svg>
   `;
 };
@@ -81,7 +94,7 @@ async function fetchCommitSummary() {
 }
 
 
-async function updateReadme() {
+async function updateSvg() {
   try {
     const commitSummary = await fetchCommitSummary();
     console.log(commitSummary);
@@ -94,17 +107,11 @@ async function updateReadme() {
     const escapedSummary = escapeXml(commitSummary.summary);
     const svgContent = svgTemplate(escapedSummary);
 
-    let readmeContent = fs.readFileSync('README.md', 'utf-8');
-    const updatedContent = readmeContent.replace(
-      /<!-- COMMIT_SUMMARY_START -->([\s\S]*?)<!-- COMMIT_SUMMARY_END -->/,
-      `<!-- COMMIT_SUMMARY_START -->\n${svgContent}\n<!-- COMMIT_SUMMARY_END -->`
-    );
-
-    fs.writeFileSync('README.md', updatedContent);
-    console.log("Updated README")
+    fs.writeFileSync('summary.svg', svgContent);
+    console.log("Updated summary.svg");
   } catch (error) {
     console.error("Error updating README:", error);
   } 
 }
 
-updateReadme();
+updateSvg();

@@ -1,0 +1,35 @@
+
+    <svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        @font-face {
+          font-family: 'EB Garamond';
+          src: url('../fonts/EBGaramond-Regular.woff') format('woff');
+        }
+        .title {
+          font-family: 'EB Garamond', serif;
+          font-size: 28px;
+          font-weight: bold;
+          fill: #333;
+        }
+        .subtitle {
+          font-family: 'EB Garamond', serif;
+          font-size: 20px;
+          font-weight: bold;
+          fill: #666;
+        }
+        .content {
+          font-family: 'EB Garamond', serif;
+          font-size: 16px;
+          fill: #444;
+        }
+        .decorative-line {
+          stroke: #d1dce5;
+          stroke-width: 2;
+        }
+      </style>
+      <rect width="600" height="300" fill="#f8f8f8" stroke="#d1dce5" stroke-width="1"/>
+      <text x="20" y="40" class="title">Weekly Summary</text>
+      <line x1="20" y1="50" x2="580" y2="50" class="decorative-line" />
+      <text x="20" y="75" class="content">Soeun has been actively contributing to various repositories, focusing on updating documentation, fixing issues, and making configurations to improve project functionality. Her consistent efforts in maintaining and enhancing her projects demonstrate a strong dedication and commitment to her work.</text><text x="20" y="95" class="content"></text><text x="20" y="115" class="content">Keep up the great work, Soeun! Your ongoing dedication and hard work are truly inspiring and will undoubtedly lead to amazing achievements.</text>
+    </svg>
+  
