@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"type": "module",
 	"dependencies": {
-		"node-fetch": "^3.0.0"
+		"node-fetch": "^3.0.0",
+		"@google-cloud/firestore": "^7.9.0",
+		"dotenv": "^16.4.5",
+		"firebase": "^10.12.3"
 	}
 }
