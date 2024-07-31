@@ -94,7 +94,7 @@ const svgTemplate = (summaryText) => {
 
           <div class="container">
             <div>
-              <h1>Weekly Summary <div class="hi">👋</div></h1>
+              <h1>Weekly GitHub Summary <div class="hi">📰</div></h1>
               <div class="summary">${escapeXml(summaryText)}</div>
             </div>
           </div>
