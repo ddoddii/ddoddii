@@ -80,10 +80,6 @@ async function fetchCommitSummary() {
 }
 }
 
-function encodeSvg(svgContent) {
-  return `data:image/svg+xml;base64,${Buffer.from(svgContent).toString('base64')}`;
-}
-
 
 async function updateReadme() {
   try {
@@ -97,12 +93,11 @@ async function updateReadme() {
 
     const escapedSummary = escapeXml(commitSummary.summary);
     const svgContent = svgTemplate(escapedSummary);
-    const encodedSvg = encodeSvg(svgContent);
 
     let readmeContent = fs.readFileSync('README.md', 'utf-8');
     const updatedContent = readmeContent.replace(
       /<!-- COMMIT_SUMMARY_START -->([\s\S]*?)<!-- COMMIT_SUMMARY_END -->/,
-      `<!-- COMMIT_SUMMARY_START -->\n${encodedSvg}\n<!-- COMMIT_SUMMARY_END -->`
+      `<!-- COMMIT_SUMMARY_START -->\n${svgContent}\n<!-- COMMIT_SUMMARY_END -->`
     );
 
     fs.writeFileSync('README.md', updatedContent);
