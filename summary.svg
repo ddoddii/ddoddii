@@ -81,9 +81,9 @@
           <div class="container">
             <div>
               <h1>Weekly GitHub Summary <div class="hi">📰</div></h1>
-              <div class="summary">Soeun has been working on maintaining and optimizing the Triton-Experiments repository by deleting an unnecessary model file to keep the repository clean and efficient. This indicates a focus on tidiness and precision in the project&amp;apos;s development.
+              <div class="summary">Soeun has been actively involved in cleaning up the repository by deleting unnecessary files, as indicated by the removal of the model.onnx file in the bert-base-uncased folder. This demonstrates her commitment to maintaining an organized and efficient codebase.
 
-Keep up the fantastic work, Soeun! Your attention to detail is making a big difference!</div>
+Keep up the great work, Soeun! Your dedication to keeping things tidy and efficient really shines through!</div>
             </div>
           </div>
         </div>
