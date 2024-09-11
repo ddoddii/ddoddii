@@ -9,12 +9,6 @@
 
 [![LeetCode user ddoddii](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fddoddii&logo=leetcode&logoColor=yellow)](https://leetcode.com/ddoddii/)
 
-<a href="https://daily-coding-times.vercel.app/">
-    <img width="372" alt="image" src="https://github.com/user-attachments/assets/64d63321-9246-47ae-a5f5-ed3741eca001">
-</a>
-
-𝘾𝙡𝙞𝙘𝙠 𝙩𝙤 𝙧𝙚𝙖𝙙 𝙩𝙝𝙚 𝘿𝙖𝙞𝙡𝙮 𝘾𝙤𝙙𝙞𝙣𝙜 𝙏𝙞𝙢𝙚𝙨 𝙤𝙪𝙩 𝙣𝙤𝙬!
-
 
 
 ![summary](./summary.svg)
@@ -62,9 +56,4 @@
 |𝙈𝙪𝙡𝙩𝙞-𝙘𝙤𝙧𝙚 𝙂𝙋𝙐 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜|[𝙡𝙞𝙣𝙠](https://github.com/ddoddii/Multicore-GPU-Programming)|
 
 
-
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="25" height="25" /> 𝗠𝘆 𝗟𝗲𝗲𝘁𝗰𝗼𝗱𝗲 𝗦𝘁𝗮𝘁𝘀
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/ddoddii?theme=light&font=Lato&ext=heatmap)
 
