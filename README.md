@@ -6,16 +6,9 @@
 
 
 
-I'm Soeun, a self-motivated developer interested in application level system optimization. I'm currently studying vLLM, Trition, GPU Programming at [ASO Lab](https://sites.google.com/view/asolabysu/home) 
+I'm Soeun, a self-motivated software engineer interested in application level system optimization. I'm currently studying vLLM, Trition, GPU Programming at [ASO Lab](https://sites.google.com/view/asolabysu/home) 
 
 I love writing techincal articles in easy words. I have posted over 80 articles in my [blog](https://ddoddii.github.io/). 
-
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="30" height="30" /> Education
-
-##### Yonsei University Seoul Campus M.S in Artificial Intelligence 
-##### Yonsei University Seoul Campus B.E in Engineering 
-
 
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="25" height="25" /> 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗦𝘁𝘂𝗱𝗶𝗲𝘀
