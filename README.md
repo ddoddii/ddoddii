@@ -6,7 +6,7 @@
 
 
 
-I'm Soeun, a self-motivated software engineer interested in application level system optimization. I'm currently studying vLLM, Trition, GPU Programming at [ASO Lab](https://sites.google.com/view/asolabysu/home) 
+I'm Soeun, a self-motivated software engineer interested in application level system optimization. I'm currently studying vLLM, Triton, GPU Programming at [ASO Lab](https://sites.google.com/view/asolabysu/home) 
 
 I love writing techincal articles in easy words. I have posted over 80 articles in my [blog](https://ddoddii.github.io/). 
 
